@@ -1,0 +1,6 @@
+this line contains no comments
+/*this line is a comment
+*/the previous line was a comment
+this line /*here is a comment*/has a comment before the word "has"
+this line has some /* /* screwed up */ comments
+in previous, should not have seen "screwed up"

@@ -1,0 +1,11 @@
+     this began with five spaces.
+this ended with eight.        
+this ended with an alternating sequence of tabs and spaces 	 	 	 	
+
+this followed a blank line.
+
+
+this followed two blank lines.
+		
+this followed a blank line with two tabs in it
+this contained several tabs in the middle 			 but then ended.

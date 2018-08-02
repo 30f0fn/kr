@@ -1,0 +1,7 @@
+	this line began with a tab
+|	|	|	|	|	|	|	|	|	|	
+   this line has a tab	in the middle
+|	|	|	|	|	|	|	|	|	|	
+   this line has two tabs		in the middle
+|	|	|	|	|	|	|	|	|	|	
+123456789
